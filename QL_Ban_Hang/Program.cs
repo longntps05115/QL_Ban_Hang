@@ -10,6 +10,7 @@ namespace QL_Ban_Hang
     {
         static void Main(string[] args)
         {
+            //Project
         }
     }
 }
